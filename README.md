@@ -1,6 +1,6 @@
 # Hi there, I'm Asif Khan! 👋
 
-![Asif Khan - AI & Data Science](banner.png)
+![Asif Khan - AI & Data Science Student](asif-khan-banner.png)
 
 ## About Me 🚀
 
